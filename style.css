@@ -1,0 +1,31 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #fff;
+}
+
+.custom-heading {
+    color: #f86f03;
+    font-family: 'Vina Sans', sans-serif;
+    margin-top: 3px;
+    text-decoration: underline;
+}
+
+#about {
+    background-color: #f86f03;
+}
+
+#projects {
+    background-color: #fff;
+}
+
+#contact {
+    background-color: #f86f03;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer {
+    background-color: #fff;
+}
